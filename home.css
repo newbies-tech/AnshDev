@@ -505,13 +505,12 @@ footer {
     margin: auto;
 
     /* color: wheat; */
-    color: rgb(249, 237, 5);
+    color: #7f00ff;
 
 }
 
 .contact-section {
-    color: rgb(249, 237, 5);
-
+    color: #7f00ff;
 }
 
 .socials {
@@ -786,7 +785,7 @@ button a {
     .conatct-section {
         margin: 0px 15px;
         border-radius: 10px;
-        background-color: #d7d2cc;
+       
         padding: 50px 0px;
         box-shadow: 0px 0px 10px black;
         /* transform: scaleZ(1.5); */
@@ -813,7 +812,7 @@ button a {
 
     .socials a {
         text-decoration: none;
-        color: rgb(249, 237, 5);
+        color: #7f00ff;
         transition: ease 0.3s;
         border-radius: 20px;
 
